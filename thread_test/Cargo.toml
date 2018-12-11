@@ -1,9 +1,8 @@
 [package]
-name = "cli"
+name = "thread_test"
 version = "0.1.0"
 authors = ["Artur Taranchiev <ewok@ewok.ru>"]
 edition = "2018"
 
 [dependencies]
-structopt = "0.2.10"
-regex = "1.1.0"
+crossbeam = "0.5.0"
