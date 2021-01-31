@@ -1,2 +1,5 @@
+**/.cargo/
+**/.rustup/
+**/.idea/
 **/target
 **/*.rs.bk
