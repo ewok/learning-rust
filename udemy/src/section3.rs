@@ -43,7 +43,7 @@ fn match_statement() {
 }
 
 fn combination_lock() {
-    println!("Simple combination lock:");
+    println!("Simple combination lock(password is 1234):");
     use std::io::stdin;
 
     enum State {
